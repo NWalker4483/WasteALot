@@ -4,6 +4,11 @@
 ```Explanation of how the 'product' is to be used ```
 ## The Build
 ```Fritzing Circuit Diagram + Explanation on why particular components were chosen```
+### Parts Included
+* Wemos Lolin-32 Lite 
+* 2x ACS712 20A Current Sensor Module 
+* Whatever relay you end up using 
+* Whatever the outlets are 
 ## The Results
 ```Graphs of the results```
 ## References
