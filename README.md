@@ -16,4 +16,5 @@
 ## References
 * ILEE Project by Blah Blah
 * [Lolin-Lite Plant Monitoring System](https://maker.pro/esp8266/projects/plant-monitoring-system-tutorial-esp32-lolin32-lite-blynk)
+* [ACS712 Setup Tutorial](http://henrysbench.capnfatz.com/henrys-bench/arduino-current-measurements/the-acs712-current-sensor-with-an-arduino/)
 * Any other references used 
