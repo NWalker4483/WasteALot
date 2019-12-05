@@ -9,6 +9,7 @@
 * 2x ACS712 20A Current Sensor Module 
 * Whatever relay you end up using 
 * Whatever the outlets are 
+
 ```Explanation on why particular components were chosen / How they work```
 ## The Results
 ```Graphs of the results```
