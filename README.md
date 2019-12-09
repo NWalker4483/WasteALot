@@ -15,6 +15,7 @@
 ```Graphs of the results```
 ## References
 * ILEE Project by Blah Blah
+* [](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/)
 * [Lolin-Lite Plant Monitoring System](https://maker.pro/esp8266/projects/plant-monitoring-system-tutorial-esp32-lolin32-lite-blynk)
 * [ACS712 Setup Tutorial](http://henrysbench.capnfatz.com/henrys-bench/arduino-current-measurements/the-acs712-current-sensor-with-an-arduino/)
 * Any other references used 
