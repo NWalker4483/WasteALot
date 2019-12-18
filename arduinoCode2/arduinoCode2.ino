@@ -14,7 +14,7 @@ int RELAY_PIN = 13;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "-0SauqW4v7VKmrfHbRvHgjrPH2x8chtw"; // Not a real key 
+char auth[] = "-1SauqW4v7VKmrfHbRvHgjrPH2x8chtw"; // Not a real key 
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
